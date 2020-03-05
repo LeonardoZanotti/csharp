@@ -1,0 +1,3 @@
+É uma função na qual lê a próxima tecla digitada;
+É usada no fim do código para que ele fique estável na tela sendo possível a leitura do mesmo ao invés de logo após ser executado ele fechar sozinho;
+Como a função lê a próxima tecla que será digitada, isso faz com que o cmd fique aberto até que a função seja concluida com uma tecla sendo apertada.

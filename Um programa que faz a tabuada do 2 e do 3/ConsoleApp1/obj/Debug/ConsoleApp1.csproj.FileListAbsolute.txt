@@ -1,0 +1,7 @@
+C:\Users\Celia\Desktop\Um programa que faz a tabuada do 2 e do 3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Celia\Desktop\Um programa que faz a tabuada do 2 e do 3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Celia\Desktop\Um programa que faz a tabuada do 2 e do 3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Celia\Desktop\Um programa que faz a tabuada do 2 e do 3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Celia\Desktop\Um programa que faz a tabuada do 2 e do 3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Celia\Desktop\Um programa que faz a tabuada do 2 e do 3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Celia\Desktop\Um programa que faz a tabuada do 2 e do 3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

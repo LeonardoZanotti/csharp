@@ -1,0 +1,10 @@
+Comentário de uma linha:
+// Comentário
+
+Comentário de múltiplas linhas
+/* Comentário */
+
+/*
+Comentário
+Comentário
+*/

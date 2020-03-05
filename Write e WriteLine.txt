@@ -1,0 +1,17 @@
+Console.Write --> Escreve o texto sem pular a linha, tipo o escreva do visualg
+Se tiver tipo:
+
+Console.Write("gay");
+Console.Write("voseé");
+
+Vai sair: 
+gayvoseé
+
+mas se for:
+
+Console.WriteLine("gay");
+Console.WriteLine("voseé");
+
+Vai sair: 
+gay
+voseé

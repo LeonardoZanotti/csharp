@@ -1,0 +1,11 @@
+\t --> Dá um espaçamento, tipo uns dois tabs
+por exemplo:
+TEXTO SEM USAR \T
+		(\t)TEXTO USANDO O \T
+
+\n --> Quebra de linha, é um enter
+por exemplo:
+Dígita alguma coisa ai:_	--> sem \n
+
+Dígita alguma coisa aí:(\n)		--> com \n
+_ 
